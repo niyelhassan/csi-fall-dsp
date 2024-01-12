@@ -36,6 +36,6 @@ To use the fall detection system, run each file with the UT-HAR dataset. Extract
 ## License
 This project is licensed under the MIT License. This means that it is free for personal and commercial use, modification, and distribution with attribution. For full license details, refer to the `LICENSE` file in the repository.
 
-## 8. Acknowledgements
+## Acknowledgements
 
 I would like to thank the following organizations and individuals for their assistance in completing this research project. First, the Monmouth County Board of Commissioners for their continuing support of MCVSD and the work they continue to do for our district. Secondly, the MCVSD Board of Education and Administration for providing the MCVSD and High Technology High School the resources that enable the high school research program to continue. Next, all the administrators and faculty of High Technology High School for providing me the opportunity to pursue and research my field and who continue to support me throughout my journey of growing as a researcher. All the research teachers and mentors who have taught me valuable research skills which enabled my progress to be a success. Lastly, my parents for their continuing support and finances that helped this project come to fruition.
